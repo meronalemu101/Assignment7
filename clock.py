@@ -138,6 +138,9 @@ for trial in range(nTrials):
 win.close()
 
 ###4)
+
+##Editing script as directed from previous level.
+
 #=====================
 #IMPORT MODULES
 #=====================
@@ -297,5 +300,5 @@ for thisBlock in range(nBlocks):
 # END OF EXPERIMENT
 #======================        
 #-write data to a file
-#-close window
+win.close() #-close window
 #-quit experiment
